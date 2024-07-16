@@ -1,0 +1,120 @@
+.nav-link:link{
+    font-family: "Zilla Slab", serif;
+    color: #4e5b4b;
+    font-size: 30px;
+    font-weight:400;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nav-link:visited{
+    color: #4e5b4b;
+}
+
+.nav-link:hover{
+    color: #731c12;
+}
+
+.nav-link:active{
+    font-family: "Zilla Slab", serif;
+}
+
+.logo{
+    width: 150px;
+}
+
+.bg-custom {
+    background-color: #eae8e7;
+}
+
+.footer{
+    background-color: #eae8e7;
+    color: #4e5b4b;
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.bi{
+    color: #731c12;
+    font-size: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h1{
+    font-family: "Zilla Slab", serif;
+    color: #731c12;
+    font-size: 30px;
+    font-weight:800;
+}
+
+h2{
+    font-family: "Zilla Slab", serif;
+    color: #731c12;
+    font-size: 27px;
+    font-weight:800;
+}
+
+h3 {
+    font-family: "Red Hat Display", sans-serif; 
+    color: #4e5b4b;
+    font-size: 25px;
+    font-weight:600;
+}
+
+h4 {
+    font-family: "Red Hat Display", sans-serif; 
+    color: #731c12;
+    font-weight: 800;
+    font-size:20px;
+}
+
+p {
+    font-size: 17px;
+}
+
+.contactinfo {
+    color: #731c12;
+}
+
+.contactstyle {
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.form-label {
+    color: #731c12;
+    font-weight:800;
+    font-size:18px;
+}
+
+.form-control {
+    background-color: #ecece3;
+}
+
+.btn-custom {
+    color: #fff;
+    background-color: #6d767b;
+}
+
+.btn-custom:hover {
+    color: #fff;
+    background-color: #4e5b4b;
+}
+
+.website-body {
+    font-family: "Red Hat Display", sans-serif;
+}
+
+.index-banner {
+    width: 100%;
+    display: block;
+}
+
+.services-faq {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.services-shares {
+    margin-right: 10px;
+    margin-left: 10px;
+}
